@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/krzysztofzubik/krzysztofzubik/master/assets/hacker.gif" width="100%" alt="Dark Hacker Animation">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=300&section=header&text=HACKING...&fontSize=70&fontColor=00FF00&animation=twinkling" width="100%">
 </p>
 <!--
 **0hmza/0hmza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
