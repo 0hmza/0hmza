@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mxs-it-sh/mxs-it-sh/main/hacker.gif" width="100%" alt="Dark Hacker Coding">
+  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/hacker-coding.gif" width="100%">
 </p>
 <!--
 **0hmza/0hmza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
