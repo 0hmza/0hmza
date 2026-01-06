@@ -1,26 +1,6 @@
-<div align="center">
-  <video src="hacker-live.mp4" width="100%" autoplay loop muted></video>
-
-  <br/>
-
-  <h1> 👨‍💻 System Architect | Cyber Security Enthusiast </h1>
-  
-  <p>
-    <img src="https://img.shields.io/badge/Status-Stealth_Mode-green?style=for-the-badge&logo=kali-linux" />
-    <img src="https://img.shields.io/badge/Access-Granted-success?style=for-the-badge" />
-  </p>
-</div>
-
----
-
-### 📂 Current Directory: /home/user/skills
-- **Languages:** Python, C++, Bash, JavaScript
-- **Tools:** Metasploit, Wireshark, Nmap, Docker
-- **Focus:** Penetration Testing & Secure Coding
-
-
-## Hi there 👋
-
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/QU9Mz9S93U8FscXQ8p/giphy.gif" width="100%" alt="Dark Hacker Background">
+</p>
 <!--
 **0hmza/0hmza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
