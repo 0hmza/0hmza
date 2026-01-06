@@ -1,11 +1,14 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExanR4aWptbXJ2aHBxaHo2ZWt2OWpheHhleDZ3ajYxMG5xYmFpMm52cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="Cool GIF" width="100%" style="height:400px; display:block;">
 </p>
-# [![HELLO THERE!!](https://img.shields.io/badge/Hello%20there%20!!-808080?style=for-the-badge)](https://github.com/0hmza)
+<p align="center">
+  <img src="https://www.vhv.rs/viewpic/hoJxwTb_hello-transparent-sticker-transparent-hello-sticker-hd-png/" alt="Hello Sticker" width="100">
+</p>
 
 ## About me:
 I’m a 42 student passionate about web development, debugging, and programming small programs.  
 I love exploring new tech, building projects, and improving my skills one challenge at a time.
+
 
 
 
