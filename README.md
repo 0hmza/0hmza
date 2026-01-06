@@ -1,4 +1,7 @@
-![Cool Animation](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHplMXJwNWlmbDltazdndnowdDRzbnpvd2Zib2h1bTQwc3ptdXVuaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4rZA5D22301iMgrUNd/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2Vkb3o4cjV2ZmcyN25ncGlqeGdrajd2bGRrdjNvZWltcXZjM3ByNyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" alt="Cool GIF" width="600">
+</p>
+
 
 
 
