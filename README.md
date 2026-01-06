@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXF4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/QU9Mz9S93U8FscXQ8p/giphy.gif" width="100%" alt="Dark Hacker Background">
+  <img src="https://raw.githubusercontent.com/krzysztofzubik/krzysztofzubik/master/assets/hacker.gif" width="100%" alt="Dark Hacker Animation">
 </p>
 <!--
 **0hmza/0hmza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
