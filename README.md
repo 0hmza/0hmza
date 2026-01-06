@@ -1,8 +1,10 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Anmol-Baranwal/Anmol-Baranwal/main/assets/hacker-coding.gif" width="100%">
-</p>
+
 <!--
 **0hmza/0hmza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+Uploading ai-artwork-video_763793b4-56f5-4534-82c6-97f2ce64f83a.mp4…
+
 
 Here are some ideas to get you started:
 
