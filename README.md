@@ -1,7 +1,22 @@
-<p align="center">
-  <video src="your-video-filename.mp4" width="100%" autoplay loop muted>
-  </video>
-</p>
+<div align="center">
+  <video src="hacker-live.mp4" width="100%" autoplay loop muted></video>
+
+  <br/>
+
+  <h1> 👨‍💻 System Architect | Cyber Security Enthusiast </h1>
+  
+  <p>
+    <img src="https://img.shields.io/badge/Status-Stealth_Mode-green?style=for-the-badge&logo=kali-linux" />
+    <img src="https://img.shields.io/badge/Access-Granted-success?style=for-the-badge" />
+  </p>
+</div>
+
+---
+
+### 📂 Current Directory: /home/user/skills
+- **Languages:** Python, C++, Bash, JavaScript
+- **Tools:** Metasploit, Wireshark, Nmap, Docker
+- **Focus:** Penetration Testing & Secure Coding
 
 
 ## Hi there 👋
