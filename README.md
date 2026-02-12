@@ -1,1 +1,1 @@
-[![wkrati's 42 stats](https://badge.mediaplus.ma/greenbinary/wkrati)](https://github.com/oakoudad/badge42)
+[![anguenda's 42 stats](https://badge.mediaplus.ma/binary/anguenda)](https://github.com/oakoudad/badge42)
