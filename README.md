@@ -25,6 +25,11 @@ I love exploring new tech, building projects, and improving my skills one challe
     <img src="https://skillicons.dev/icons?i=discord" />
   </a>
 </div>
+<div align="left">
+  <a href="https://www.linkedin.com/in/hamza-j-638756372" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</div>
 <!--
 0hmza/0hmza is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 Uploading ai-artwork-video_763793b4-56f5-4534-82c6-97f2ce64f83a.mp4…
