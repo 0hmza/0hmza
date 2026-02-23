@@ -24,6 +24,7 @@ I love exploring new tech, building projects, and improving my skills one challe
   <a href="https://discord.com/users/1363878620132675766" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" />
   </a>
+  
   <a href="https://www.linkedin.com/in/hamza-j-638756372" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" />
   </a>
