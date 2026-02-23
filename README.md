@@ -20,10 +20,10 @@ I love exploring new tech, building projects, and improving my skills one challe
 </div>
 
 ### Connect with me
-<div align="center">
+<div align="left">
   <a href="https://discord.com/users/1363878620132675766" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" alt="Discord" width="50" />
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;
   <a href="https://www.linkedin.com/in/hamza-j-638756372" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="50" />
   </a>
