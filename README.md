@@ -11,7 +11,7 @@ I love exploring new tech, building projects, and improving my skills one challe
 
 ### 🛠️ Languages & Tools & Environment
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,python,html,css,c" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,python,html,css,c,shell" />
 </div>
 <!--
 0hmza/0hmza is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
