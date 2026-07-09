@@ -1,4 +1,4 @@
-<!-- <p align="center">
+ <p align="center">
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=42&pause=1000&color=8A2BE2&center=true&vCenter=true&width=650&lines=Hi,+am+Hamza;1337+Student&shadow=1" alt="Typing SVG" />
 </h1>
@@ -19,9 +19,9 @@ I love exploring new tech, building projects, and improving my skills one challe
     alt="profile views" 
   />
 </p>
- -->
 
-<!-- <div align="center">
+
+ <div align="center">
   
 ## 42 Projects
 
@@ -85,7 +85,7 @@ I love exploring new tech, building projects, and improving my skills one challe
     alt="languages" 
   />
 </p>
-</div> -->
+</div> 
 -
 <!--
 0hmza/0hmza is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
