@@ -22,16 +22,15 @@ I love exploring new tech, building projects, and improving my skills one challe
 
 
  <div align="center">
-  
-## 42 Projects
-
+ 
+<!--
 <table>
 <tr>
 <th align="left">Project</th>
 <th align="center">Status</th>
 <th align="left">Focus</th>
 </tr>
-
+## 42 Projects
 <tr>
 <td><a href="https://github.com/0hmza/libft"><strong>libft</strong></a></td>
 <td align="center" style="color:#0097b2;">✔</td>
@@ -71,7 +70,7 @@ I love exploring new tech, building projects, and improving my skills one challe
 </tr>
 
 </table>
-
+-->
 ### 🛠️ Tools & Environment
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,vim" />
