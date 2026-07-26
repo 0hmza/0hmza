@@ -42,22 +42,22 @@ $ ls -l ~/projects/    # some links are clickable
     <th align="left">what it taught me</th>
   </tr>
   <tr>
-    <td><a href="https://github.com/0hmza/libft"><code>libft</code></a></td>
+    <td><code>libft</code></a></td>
     <td align="center">0 ✓</td>
     <td>rebuilding libc — memory, strings, lists</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/0hmza/printf"><code>ft_printf</code></a></td>
+    <td><code><p style="color: red;">ft_printf</p></code></a></td>
     <td align="center">0 ✓</td>
     <td>variadic functions & format parsing</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/0hmza/get_next_line"><code>get_next_line</code></a></td>
+    <td><code>get_next_line</code></a></td>
     <td align="center">0 ✓</td>
     <td>file I/O, buffers & static memory</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/0hmza/push_swap"><code>push_swap</code></a></td>
+    <td><code>push_swap</code></a></td>
     <td align="center">0 ✓</td>
     <td>sorting under constraints, complexity</td>
   </tr>
@@ -67,12 +67,12 @@ $ ls -l ~/projects/    # some links are clickable
     <td>VM setup, partitioning, sysadmin & hardening</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/0hmza/A-Maze-ing"><code>a-maze-ing</code></a></td>
+    <td><code>a-maze-ing</code></a></td>
     <td align="center">0 ✓</td>
     <td>maze generation, my own algorithms</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/0hmza/Piscine-Python-42"><code>python_piscine</code></a></td>
+    <td></td><code>python_piscine</code></a></td>
     <td align="center">0 ✓</td>
     <td>Python fundamentals & OOP</td>
   </tr>
@@ -94,7 +94,7 @@ $ ls -l ~/projects/    # some links are clickable
   <tr>
     <td><code>exam_rank_{02,03,04}</code></td>
     <td align="center">✓ ✓ ✓</td>
-    <td>proctored — no internet, just you and vim</td>
+    <td>proctored — no internet, just me and moulinette</td>
   </tr>
 </table>
 
