@@ -34,15 +34,15 @@ $ ls -l ~/projects/
 |:-------|:----:|:------------------|
 | ${\color{#00FF41}\texttt{libft}}$ | 0 ✓ | rebuilding libc — memory, strings, lists |
 | $`{\color{#00FF41}\mathtt{ft\_printf}}`$ | 0 ✓ | variadic functions & format parsing |
-| ${\color{#00FF41}\texttt{get\_next\_line}}$ | 0 ✓ | file I/O, buffers & static memory |
+| $`{\color{#00FF41}\mathtt{get\_next\_line}}`$ | 0 ✓ | file I/O, buffers & static memory |
 | ${\color{#00FF41}\texttt{born2beroot}}$ | 0 ✓ | VM setup, partitioning, sysadmin & hardening |
-| ${\color{#00FF41}\texttt{push\_swap}}$ | 0 ✓ | sorting under constraints, complexity |
+| $`{\color{#00FF41}\mathtt{push\_swap}}`$ | 0 ✓ | sorting under constraints, complexity |
 | ${\color{#00FF41}\texttt{a-maze-ing}}$ | 0 ✓ | maze generation, my own algorithms |
-| ${\color{#00FF41}\texttt{python\_piscine}}$ | 0 ✓ | Python fundamentals & OOP |
+| $`{\color{#00FF41}\mathtt{python\_piscine}}`$ | 0 ✓ | Python fundamentals & OOP |
 | ${\color{#00FF41}\texttt{fly-in}}$ | 0 ✓ | 2D graphics & the game loop |
 | ${\color{#00FF41}\texttt{codexion}}$ | 0 ✓ | working inside unfamiliar code |
-| ${\color{#00FF41}\texttt{call\_me\_maybe}}$ | 0 ✓ | UNIX signals & process communication |
-| ${\color{#00FF41}\texttt{exam\_rank\_02..04}}$ | ✓ ✓ ✓ | proctored — no internet, just you and vim |s
+| $`{\color{#00FF41}\mathtt{call\_me\_maybe}}`$ | 0 ✓ | UNIX signals & process communication |
+| $`{\color{#00FF41}\mathtt{exam\_rank\_02..04}}`$ | ✓ ✓ ✓ | proctored — no internet, just me and moulinette
 
 
 ```console
