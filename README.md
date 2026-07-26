@@ -2,6 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0D1117,50:00FF41,100:0D1117&text=hmza%401337.ma&fontColor=0D1117&fontSize=34&fontAlignY=38&animation=twinkling&section=header" width="100%" alt="header" />
 
+<img src="https://komarev.com/ghpvc/?username=0hmza&style=for-the-badge&color=00ff41&label=VISITORS" alt="profile views" />
+
+<br><br>
+
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=900&color=00FF41&center=true&vCenter=true&width=460&lines=%24+ssh+hjalzim%401337.ma;low-level+C+%C2%B7+algorithms+%C2%B7+unix;if+I+can't+rebuild+it%2C+I+don't+own+it;%24+_" alt="typing intro" />
 
 </div>
@@ -19,14 +23,14 @@ $ neofetch
  ██║╚════██╗╚════██╗╚════██║    ────────────────────────────────────────
  ██║ █████╔╝ █████╔╝    ██╔╝    User:      hamza — goes by "h" · 0hmza
  ██║ ╚═══██╗ ╚═══██╗   ██╔╝     School:    1337 · 42 Network · Morocco
- ██║██████╔╝██████╔╝   ██║      Track:     new Common Core ......... [running]
+ ██║██████╔╝██████╔╝   ██║      Track:     new Common Core ...... [13 validated]
  ╚═╝╚═════╝ ╚═════╝    ╚═╝      Degrees:   Licence Informatique · DEUST (USMS)
                                 Uptime:    learning since day 0, zero reboots
                                 Motto:     rebuild it from scratch, every time
 ```
 
 ```console
-$ ls -l ~/projects/    # links are clickable
+$ ls -l ~/projects/    # some links are clickable
 ```
 
 <div align="center">
@@ -58,27 +62,82 @@ $ ls -l ~/projects/    # links are clickable
     <td>sorting under constraints, complexity</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/0hmza/Piscine-Python-42"><code>python_piscine</code></a></td>
+    <td><code>born2beroot</code></td>
     <td align="center">0 ✓</td>
-    <td>Python fundamentals & OOP</td>
+    <td>VM setup, partitioning, sysadmin & hardening</td>
   </tr>
   <tr>
     <td><a href="https://github.com/0hmza/A-Maze-ing"><code>a-maze-ing</code></a></td>
     <td align="center">0 ✓</td>
     <td>maze generation, my own algorithms</td>
   </tr>
+  <tr>
+    <td><a href="https://github.com/0hmza/Piscine-Python-42"><code>python_piscine</code></a></td>
+    <td align="center">0 ✓</td>
+    <td>Python fundamentals & OOP</td>
+  </tr>
+  <tr>
+    <td><code>codexion</code></td>
+    <td align="center">0 ✓</td>
+    <td>working inside unfamiliar code</td>
+  </tr>
+  <tr>
+    <td><code>fly-in</code></td>
+    <td align="center">0 ✓</td>
+    <td>2D graphics & the game loop</td>
+  </tr>
+  <tr>
+    <td><code>call_me_maybe</code></td>
+    <td align="center">0 ✓</td>
+    <td>UNIX signals & process communication</td>
+  </tr>
+  <tr>
+    <td><code>exam_rank_{02,03,04}</code></td>
+    <td align="center">✓ ✓ ✓</td>
+    <td>proctored — no internet, just you and vim</td>
+  </tr>
 </table>
 
 </div>
 
 ```console
-$ cat roadmap.mmd | render
+$ tree ~/common-core/    # green = validated · dashed = in progress · grey = locked
 ```
 
 ```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0D1117','primaryTextColor':'#00FF41','primaryBorderColor':'#00FF41','lineColor':'#8B949E','fontFamily':'monospace'}}}%%
-graph LR
-    A[libft] --> B[ft_printf] --> C[get_next_line] --> D[push_swap] --> E((you are here)) --> F[rest of the Common Core]
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0D1117','primaryTextColor':'#C9D1D9','primaryBorderColor':'#30363D','lineColor':'#00FF41','fontFamily':'monospace','fontSize':'16px'}}}%%
+graph TD
+    LIB["✓ libft"]:::done
+
+    LIB --> FP["✓ ft_printf"]:::done
+    LIB --> GNL["✓ get_next_line"]:::done
+    LIB --> B2B["✓ born2beroot"]:::done
+
+    FP  --> PS["✓ push_swap"]:::done
+    GNL --> AM["✓ a-maze-ing"]:::done
+    B2B --> E2["✓ exam rank 02"]:::done
+
+    PS --> PY["✓ python piscine"]:::done
+    PS --> CX["✓ codexion"]:::done
+    AM --> FI["✓ fly-in"]:::done
+    AM --> CMM["✓ call me maybe"]:::done
+    E2 --> E3["✓ exam rank 03"]:::done
+
+    E3  --> E4["✓ exam rank 04"]:::done
+    PY  --> NP["◌ netpractice"]:::doing
+    CX  --> NP
+    FI  --> PM["◌ pac-man"]:::doing
+    CMM --> PM
+
+    NP --> INC["🔒 inception"]:::locked
+    PM --> FT["🔒 ft_transcendence"]:::locked
+    E4 --> INC
+    INC --> MORE["🔒 · · ·"]:::locked
+    FT  --> MORE
+
+    classDef done fill:#00FF41,stroke:#00FF41,color:#0D1117,stroke-width:2px
+    classDef doing fill:#0D1117,stroke:#E6EDF3,color:#E6EDF3,stroke-width:2px,stroke-dasharray:6 4
+    classDef locked fill:#161B22,stroke:#484F58,color:#8B949E,stroke-dasharray:2 5
 ```
 
 ```console
@@ -143,8 +202,6 @@ Connection to 1337.ma closed. [process exited with code 0]
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=0hmza&color=00ff41&style=flat-square&label=SESSIONS" alt="profile views" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:003C1E,50:0D1117,100:000000&section=footer" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:00FF41,100:0D1117&section=footer" width="100%" alt="footer" />
 
 </div>
