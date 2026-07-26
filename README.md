@@ -4,9 +4,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=0hmza&style=for-the-badge&color=00ff41&label=VISITORS" alt="profile views" />
 
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=900&color=00FF41&center=true&vCenter=true&width=460&lines=%24+ssh+hjalzim%401337.ma;low-level+C+%C2%B7+algorithms+%C2%B7+unix;if+I+can't+rebuild+it%2C+I+don't+own+it;%24+_" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2600&pause=900&color=00FF41&center=true&vCenter=true&width=460&lines=%24+ssh+hmza%401337.ma;low-level+C+%C2%B7+algorithms+%C2%B7+unix+%C2%B7+python;if+I+can't+rebuild+it%2C+I+don't+own+it;%24+_" alt="typing intro" />
 
 </div>
 
@@ -30,114 +28,86 @@ $ neofetch
 ```
 
 ```console
-$ ls -l ~/projects/    # some links are clickable
+$ ls -l ~/projects/
 ```
 
-<div align="center">
-
-<table>
-  <tr>
-    <th align="left">binary</th>
-    <th align="center">exit</th>
-    <th align="left">what it taught me</th>
-  </tr>
-  <tr>
-    <td><code>libft</code></a></td>
-    <td align="center">0 ✓</td>
-    <td>rebuilding libc — memory, strings, lists</td>
-  </tr>
-  <tr>
-    <td><code><p style="color: red;">ft_printf</p></code></a></td>
-    <td align="center">0 ✓</td>
-    <td>variadic functions & format parsing</td>
-  </tr>
-  <tr>
-    <td><code>get_next_line</code></a></td>
-    <td align="center">0 ✓</td>
-    <td>file I/O, buffers & static memory</td>
-  </tr>
-  <tr>
-    <td><code>push_swap</code></a></td>
-    <td align="center">0 ✓</td>
-    <td>sorting under constraints, complexity</td>
-  </tr>
-  <tr>
-    <td><code>born2beroot</code></td>
-    <td align="center">0 ✓</td>
-    <td>VM setup, partitioning, sysadmin & hardening</td>
-  </tr>
-  <tr>
-    <td><code>a-maze-ing</code></a></td>
-    <td align="center">0 ✓</td>
-    <td>maze generation, my own algorithms</td>
-  </tr>
-  <tr>
-    <td></td><code>python_piscine</code></a></td>
-    <td align="center">0 ✓</td>
-    <td>Python fundamentals & OOP</td>
-  </tr>
-  <tr>
-    <td><code>codexion</code></td>
-    <td align="center">0 ✓</td>
-    <td>working inside unfamiliar code</td>
-  </tr>
-  <tr>
-    <td><code>fly-in</code></td>
-    <td align="center">0 ✓</td>
-    <td>2D graphics & the game loop</td>
-  </tr>
-  <tr>
-    <td><code>call_me_maybe</code></td>
-    <td align="center">0 ✓</td>
-    <td>UNIX signals & process communication</td>
-  </tr>
-  <tr>
-    <td><code>exam_rank_{02,03,04}</code></td>
-    <td align="center">✓ ✓ ✓</td>
-    <td>proctored — no internet, just me and moulinette</td>
-  </tr>
-</table>
-
-</div>
+| binary | exit | what it taught me |
+|:-------|:----:|:------------------|
+| ${\color{#00FF41}\textsf{libft}}$ | 0 ✓ | rebuilding libc — memory, strings, lists |
+| ${\color{#00FF41}\textsf{ft\_printf}}$ | 0 ✓ | variadic functions & format parsing |
+| ${\color{#00FF41}\textsf{get\_next\_line}}$ | 0 ✓ | file I/O, buffers & static memory |
+| ${\color{#00FF41}\textsf{born2beroot}}$ | 0 ✓ | VM setup, partitioning, sysadmin & hardening |
+| ${\color{#00FF41}\textsf{push\_swap}}$ | 0 ✓ | sorting under constraints, complexity |
+| ${\color{#00FF41}\textsf{a-maze-ing}}$ | 0 ✓ | maze generation, my own algorithms |
+| ${\color{#00FF41}\textsf{python\_piscine}}$ | 0 ✓ | Python fundamentals & OOP |
+| ${\color{#00FF41}\textsf{fly-in}}$ | 0 ✓ | 2D graphics & the game loop |
+| ${\color{#00FF41}\textsf{codexion}}$ | 0 ✓ | working inside unfamiliar code |
+| ${\color{#00FF41}\textsf{call\_me\_maybe}}$ | 0 ✓ | UNIX signals & process communication |
+| ${\color{#00FF41}\textsf{exam\_rank\_\{02..04\}}}$ | ✓ ✓ ✓ | proctored — no internet, just you and vim |
 
 ```console
-$ tree ~/common-core/    # green = validated · dashed = in progress · grey = locked
+$ tree ~/common-core/    # green = validated · grey = not yet · dots = floor gates
 ```
 
 ```mermaid
-%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0D1117','primaryTextColor':'#C9D1D9','primaryBorderColor':'#30363D','lineColor':'#00FF41','fontFamily':'monospace','fontSize':'16px'}}}%%
+%%{init: {'theme':'dark','themeVariables':{'primaryColor':'#0D1117','primaryTextColor':'#C9D1D9','primaryBorderColor':'#30363D','lineColor':'#484F58','fontFamily':'monospace','fontSize':'16px'}}}%%
 graph TD
-    LIB["✓ libft"]:::done
+    LIB["✓ libft"]:::done --> G0((" ")):::gate
+    G0 --> GNL["✓ get_next_line"]:::done
+    G0 --> FP["✓ ft_printf"]:::done
+    G0 --> B2B["✓ born2beroot"]:::done
 
-    LIB --> FP["✓ ft_printf"]:::done
-    LIB --> GNL["✓ get_next_line"]:::done
-    LIB --> B2B["✓ born2beroot"]:::done
+    GNL --> G1((" ")):::gate
+    FP --> G1
+    B2B --> G1
 
-    FP  --> PS["✓ push_swap"]:::done
-    GNL --> AM["✓ a-maze-ing"]:::done
-    B2B --> E2["✓ exam rank 02"]:::done
+    G1 --> PY["✓ python_piscine"]:::done
+    G1 --> AM["✓ a-maze-ing"]:::done
+    G1 --> PS["✓ push_swap"]:::done
+    G1 --> E2["✓ exam_rank_02"]:::done
 
-    PS --> PY["✓ python piscine"]:::done
-    PS --> CX["✓ codexion"]:::done
-    AM --> FI["✓ fly-in"]:::done
-    AM --> CMM["✓ call me maybe"]:::done
-    E2 --> E3["✓ exam rank 03"]:::done
+    PY --> G2((" ")):::gate
+    AM --> G2
+    PS --> G2
+    E2 --> G2
 
-    E3  --> E4["✓ exam rank 04"]:::done
-    PY  --> NP["◌ netpractice"]:::doing
-    CX  --> NP
-    FI  --> PM["◌ pac-man"]:::doing
-    CMM --> PM
+    G2 --> FI["✓ fly-in"]:::done
+    G2 --> CX["✓ codexion"]:::done
+    G2 --> CMM["✓ call_me_maybe"]:::done
+    G2 --> E3["✓ exam_rank_03"]:::done
 
-    NP --> INC["🔒 inception"]:::locked
-    PM --> FT["🔒 ft_transcendence"]:::locked
-    E4 --> INC
-    INC --> MORE["🔒 · · ·"]:::locked
-    FT  --> MORE
+    FI --> G3((" ")):::gate
+    CX --> G3
+    CMM --> G3
+    E3 --> G3
+
+    G3 --> E4["✓ exam_rank_04"]:::done
+    G3 --> RAG["rag_against_the_machine"]:::todo
+    G3 --> NP["netpractice"]:::todo
+    G3 --> PM["pac-man"]:::todo
+
+    E4 --> G4((" ")):::gate
+    RAG --> G4
+    NP --> G4
+    PM --> G4
+
+    G4 --> AS["agent_smith"]:::todo
+    G4 --> E5["exam_rank_05"]:::todo
+    G4 --> INC["inception"]:::todo
+    G4 --> AP["answer_protocol"]:::todo
+
+    AS --> G5((" ")):::gate
+    E5 --> G5
+    INC --> G5
+    AP --> G5
+
+    G5 --> FT["ft_transcendence"]:::todo
+    G5 --> E6["exam_rank_06"]:::todo
+    G5 --> CR["42_collaborative_resume"]:::todo
 
     classDef done fill:#00FF41,stroke:#00FF41,color:#0D1117,stroke-width:2px
-    classDef doing fill:#0D1117,stroke:#E6EDF3,color:#E6EDF3,stroke-width:2px,stroke-dasharray:6 4
-    classDef locked fill:#161B22,stroke:#484F58,color:#8B949E,stroke-dasharray:2 5
+    classDef todo fill:#161B22,stroke:#484F58,color:#8B949E
+    classDef gate fill:#30363D,stroke:#30363D,color:#30363D
 ```
 
 ```console
