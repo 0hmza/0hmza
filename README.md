@@ -33,7 +33,7 @@ $ ls -l ~/projects/
 | binary | exit | what it taught me |
 |:-------|:----:|:------------------|
 | ${\color{#00FF41}\texttt{libft}}$ | 0 ✓ | rebuilding libc — memory, strings, lists |
-| $`{\color{#00FF41}\texttt{ft\textunderscore printf}}`$ | 0 ✓ | variadic functions & format parsing |
+| $`{\color{#00FF41}\mathtt{ft\_printf}}`$ | 0 ✓ | variadic functions & format parsing |
 | ${\color{#00FF41}\texttt{get\_next\_line}}$ | 0 ✓ | file I/O, buffers & static memory |
 | ${\color{#00FF41}\texttt{born2beroot}}$ | 0 ✓ | VM setup, partitioning, sysadmin & hardening |
 | ${\color{#00FF41}\texttt{push\_swap}}$ | 0 ✓ | sorting under constraints, complexity |
