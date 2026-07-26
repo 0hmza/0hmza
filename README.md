@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0D1117,50:00FF41,100:0D1117&text=I'm+hemza&fontColor=0D1117&fontSize=34&fontAlignY=38&animation=twinkling&section=header" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0D1117,50:00FF41,100:0D1117&text=I'm+hmza&fontColor=0D1117&fontSize=34&fontAlignY=38&animation=twinkling&section=header" width="100%" alt="header" />
 
 <img src="https://komarev.com/ghpvc/?username=0hmza&style=for-the-badge&color=00ff41&label=VISITORS" alt="profile views" />
 
