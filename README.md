@@ -92,7 +92,7 @@ graph TD
     E4 --> G4((" ")):::gate
     RAG --> G4
     NP --> G4
-    PM --> G4
+    PC --> G4
 
     G4 --> AS["agent_smith"]:::todo
     G4 --> E5["exam_rank_05"]:::todo
