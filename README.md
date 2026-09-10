@@ -43,7 +43,9 @@ $ ls -l ~/projects/
 | ${\color{#00FF41}\texttt{codexion}}$ | 0 ✓ | working inside unfamiliar code |
 | $`{\color{#00FF41}\mathtt{call\_me\_maybe}}`$ | 0 ✓ | UNIX signals & process communication |
 | $`{\color{#00FF41}\mathtt{exam\_rank\_02..04}}`$ | ✓ ✓ ✓ | proctored — no internet, just me and moulinette |
-| ${\color{#00FF41}\texttt{RAG-against-the-machine}}$ | 0 ✓ | helps AI language models give better and truer answers.
+| ${\color{#00FF41}\texttt{RAG-against-the-machine}}$ | 0 ✓ | helps AI language models give better and truer answers|
+| $`{\color{#00FF41}\mathtt{Pac-man}}`$ | 0 ✓ | fonctional game like original pacman.
+
 
 
 ```console
@@ -84,8 +86,8 @@ graph TD
 
     G3 --> E4["✓ exam_rank_04"]:::done
     G3 --> RAG["✓rag_against_the_machine"]:::done
+    G3 --> RAG["✓Pac-man"]:::done
     G3 --> NP["netpractice"]:::todo
-    G3 --> PM["pac-man"]:::todo
 
     E4 --> G4((" ")):::gate
     RAG --> G4
