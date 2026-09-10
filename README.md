@@ -85,8 +85,8 @@ graph TD
     E3 --> G3
 
     G3 --> E4["✓ exam_rank_04"]:::done
-    G3 --> RAG["✓rag_against_the_machine"]:::done
     G3 --> RAG["✓Pac-man"]:::done
+    G3 --> RAG["✓rag_against_the_machine"]:::done
     G3 --> NP["netpractice"]:::todo
 
     E4 --> G4((" ")):::gate
