@@ -125,28 +125,7 @@ $ which -a skills
 
 </div>
 
-```console
 
-<br>
-
-<details>
-<summary><code>$ sudo cat /root/.secrets</code></summary>
-<br>
-
-```text
-[sudo] password for hjalzim: ********
-sudo: permission denied — nice try though.
-$ echo $?
-1
-```
-
-</details>
-
-```console
-$ exit
-logout
-Connection to 1337.ma closed. [process exited with code 0]
-```
 
 <div align="center">
 
