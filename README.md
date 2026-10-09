@@ -126,22 +126,6 @@ $ which -a skills
 </div>
 
 ```console
-$ git log --graph --all
-```
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=0hmza&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=C9D1D9&ring_color=00FF41&hide_title=false" alt="stats" />
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=0hmza&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=C9D1D9&currStreakNum=00FF41&sideLabels=8B949E&dates=8B949E" alt="streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0hmza&bg_color=0D1117&color=8B949E&line=00FF41&point=C9D1D9&area=true&hide_border=true" width="94%" alt="activity graph" />
-
-</div>
-
-```console
-$ ./contact.sh
-```
-
 
 <br>
 
