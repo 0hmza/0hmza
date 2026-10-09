@@ -142,15 +142,6 @@ $ git log --graph --all
 $ ./contact.sh
 ```
 
-<div align="center">
-
-<a href="https://github.com/0hmza"><img src="https://img.shields.io/badge/GITHUB-0hmza-000000?style=for-the-badge&logo=github&logoColor=00FF41" alt="GitHub" /></a>
-&nbsp;
-<a href="[MY_LINKEDIN_URL]"><img src="https://img.shields.io/badge/LINKEDIN-hamza-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41" alt="LinkedIn" /></a>
-&nbsp;
-<img src="https://img.shields.io/badge/DISCORD-[MY_DISCORD_USERNAME]-000000?style=for-the-badge&logo=discord&logoColor=00FF41" alt="Discord" />
-
-</div>
 
 <br>
 
