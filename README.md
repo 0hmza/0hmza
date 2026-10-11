@@ -44,7 +44,8 @@ $ ls -l ~/projects/
 | $`{\color{#00FF41}\mathtt{call\_me\_maybe}}`$ | 0 ✓ | UNIX signals & process communication |
 | $`{\color{#00FF41}\mathtt{exam\_rank\_02..04}}`$ | ✓ ✓ ✓ | proctored — no internet, just me and moulinette |
 | ${\color{#00FF41}\texttt{RAG-against-the-machine}}$ | 0 ✓ | helps AI language models give better and truer answers|
-| $`{\color{#00FF41}\mathtt{Pac-man}}`$ | 0 ✓ | fonctional game like original pacman.
+| $`{\color{#00FF41}\mathtt{Pac-man}}`$ | 0 ✓ | fonctional game like original pacman|
+| $`{\color{#00FF41}\mathtt{NetPractice}}`$ | 0 ✓ | introdcution to network.
 
 
 
