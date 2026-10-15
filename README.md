@@ -42,7 +42,7 @@ $ ls -l ~/projects/
 | ${\color{#00FF41}\texttt{fly-in}}$ | 0 ✓ | 2D graphics & the game loop |
 | ${\color{#00FF41}\texttt{codexion}}$ | 0 ✓ | working inside unfamiliar code |
 | $`{\color{#00FF41}\mathtt{call\_me\_maybe}}`$ | 0 ✓ | UNIX signals & process communication |
-| $`{\color{#00FF41}\mathtt{exam\_rank\_02..04}}`$ | ✓ ✓ ✓ | proctored — no internet, just me and moulinette |
+| $`{\color{#00FF41}\mathtt{exam\_rank\_02..05}}`$ | ✓ ✓ ✓ | proctored — no internet, just me and moulinette |
 | ${\color{#00FF41}\texttt{RAG-against-the-machine}}$ | 0 ✓ | helps AI language models give better and truer answers|
 | $`{\color{#00FF41}\mathtt{Pac-man}}`$ | 0 ✓ | fonctional game like original pacman|
 | $`{\color{#00FF41}\mathtt{NetPractice}}`$ | 0 ✓ | introdcution to network.
@@ -96,7 +96,7 @@ graph TD
     PC --> G4
 
     G4 --> AS["agent_smith"]:::todo
-    G4 --> E5["exam_rank_05"]:::todo
+    G4 --> E5["exam_rank_05"]:::done
     G4 --> INC["inception"]:::todo
     G4 --> AP["answer_protocol"]:::todo
 
